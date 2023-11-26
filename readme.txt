@@ -11,7 +11,7 @@
 2. numpy                     >=1.26.0
 3. jupyter运行环境
 numpy 版本影响不大，主要是调用了其中的sqrt()开方函数以及isClose()函数判断是否接近零，低于1.26.0应该也不会有太大影响。
-jupyter运行较为关键，若无jupyter运行环境可以访问该链接，这里是运行好的案例。
+jupyter运行较为关键，若无jupyter运行环境可以访问该链接，[这里是运行好的案例](https://github.com/JoeZhang-0x000/SimpleMatrix/blob/main/test.ipynb)
 
 ## 功能包含
 - 详细见test.ipynb
